@@ -19,7 +19,7 @@
 
 | ファイル名 | 説明 |
 |------------|------|
-| `consumption_tax_extended_analysis_with_answers.ipynb` |
+| `consumption_tax_extended_analysis_with_answers.ipynb` | 分析Notebook  |
 | `consumption_tax_full_with_tax_breakdown.csv` | 使用したCSVデータ（税収・支出の年次推移） |
 | `README.md` | この説明ファイル |
 
