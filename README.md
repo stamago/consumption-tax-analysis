@@ -12,7 +12,6 @@
 | 社会保障費の推移 | 年金・医療・介護などの支出と比較 |
 | 消費税の税収割合 | 総税収に対する割合を算出 |
 | 法人税・所得税との比較 | 景気との関連を視覚的に検証 |
-| 増税年の注釈付きグラフ | 1997年・2014年・2019年の税率変更を可視化 |
 
 ---
 
@@ -20,9 +19,8 @@
 
 | ファイル名 | 説明 |
 |------------|------|
-| `consumption_tax_extended_analysis_with_answers.ipynb` | 分析Notebook（演習つき・解答例つき） |
+| `consumption_tax_extended_analysis_with_answers.ipynb` |
 | `consumption_tax_full_with_tax_breakdown.csv` | 使用したCSVデータ（税収・支出の年次推移） |
-| `消費税_主要税収_分析図解まとめ.pdf` | 分析グラフまとめ資料（図解付き） |
 | `README.md` | この説明ファイル |
 
 ---
@@ -43,14 +41,8 @@
 
 ---
 
-## 🔓 ライセンス
-
-MIT License
-
----
-
 ## ✍️ 作者
 
-- GitHub: [your-github-username]
-- お問い合わせ: [your-email@example.com]
+- GitHub: [stamago]
+- お問い合わせ: [stamago1022@gmail.com]
 
